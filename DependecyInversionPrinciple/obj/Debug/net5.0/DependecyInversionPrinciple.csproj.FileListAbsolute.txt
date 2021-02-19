@@ -1,0 +1,16 @@
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\net5.0\DependecyInversionPrinciple.exe
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\net5.0\DependecyInversionPrinciple.deps.json
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\net5.0\DependecyInversionPrinciple.runtimeconfig.json
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\net5.0\DependecyInversionPrinciple.runtimeconfig.dev.json
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\net5.0\DependecyInversionPrinciple.dll
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\net5.0\ref\DependecyInversionPrinciple.dll
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\net5.0\DependecyInversionPrinciple.pdb
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\net5.0\DependecyInversionPrinciple.csprojAssemblyReference.cache
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\net5.0\DependecyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\net5.0\DependecyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\net5.0\DependecyInversionPrinciple.AssemblyInfo.cs
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\net5.0\DependecyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\net5.0\DependecyInversionPrinciple.dll
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\net5.0\ref\DependecyInversionPrinciple.dll
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\net5.0\DependecyInversionPrinciple.pdb
+C:\Users\Maai Ham\RiderProjects\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\net5.0\DependecyInversionPrinciple.genruntimeconfig.cache
